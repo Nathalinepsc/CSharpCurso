@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\Nathaline\\Programação\\CsharpCurso\\CsharpCurso.csproj",
+      "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\Nathaline\\Programação\\CsharpCurso\\inicio\\CsharpCurso.csproj",
       "projectName": "CsharpCurso",
-      "projectPath": "C:\\Users\\Anderson\\Desktop\\Nathaline\\Programação\\CsharpCurso\\CsharpCurso.csproj",
+      "projectPath": "C:\\Users\\Anderson\\Desktop\\Nathaline\\Programação\\CsharpCurso\\inicio\\CsharpCurso.csproj",
       "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anderson\\Desktop\\Nathaline\\Programação\\CsharpCurso\\obj\\",
+      "outputPath": "C:\\Users\\Anderson\\Desktop\\Nathaline\\Programação\\CsharpCurso\\inicio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config"
