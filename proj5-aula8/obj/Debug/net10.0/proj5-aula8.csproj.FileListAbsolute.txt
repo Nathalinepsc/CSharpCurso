@@ -1,0 +1,15 @@
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\bin\Debug\net10.0\proj5-aula8.exe
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\bin\Debug\net10.0\proj5-aula8.deps.json
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\bin\Debug\net10.0\proj5-aula8.runtimeconfig.json
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\bin\Debug\net10.0\proj5-aula8.dll
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\bin\Debug\net10.0\proj5-aula8.pdb
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\proj5-aula8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\proj5-aula8.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\proj5-aula8.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\proj5-aula8.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\proj5-aula8.sourcelink.json
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\proj5-aula8.dll
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\refint\proj5-aula8.dll
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\proj5-aula8.pdb
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\proj5-aula8.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\ref\proj5-aula8.dll

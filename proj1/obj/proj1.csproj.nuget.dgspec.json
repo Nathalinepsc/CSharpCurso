@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anderson\\Desktop\\Nathaline\\Programação\\CsharpCurso\\proj1\\proj1.csproj": {}
+    "C:\\Users\\Anderson\\Desktop\\Nathaline\\Programacao\\Projetos\\CsharpCurso\\proj1\\proj1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anderson\\Desktop\\Nathaline\\Programação\\CsharpCurso\\proj1\\proj1.csproj": {
+    "C:\\Users\\Anderson\\Desktop\\Nathaline\\Programacao\\Projetos\\CsharpCurso\\proj1\\proj1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\Nathaline\\Programação\\CsharpCurso\\proj1\\proj1.csproj",
+        "projectUniqueName": "C:\\Users\\Anderson\\Desktop\\Nathaline\\Programacao\\Projetos\\CsharpCurso\\proj1\\proj1.csproj",
         "projectName": "proj1",
-        "projectPath": "C:\\Users\\Anderson\\Desktop\\Nathaline\\Programação\\CsharpCurso\\proj1\\proj1.csproj",
+        "projectPath": "C:\\Users\\Anderson\\Desktop\\Nathaline\\Programacao\\Projetos\\CsharpCurso\\proj1\\proj1.csproj",
         "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anderson\\Desktop\\Nathaline\\Programação\\CsharpCurso\\proj1\\obj\\",
+        "outputPath": "C:\\Users\\Anderson\\Desktop\\Nathaline\\Programacao\\Projetos\\CsharpCurso\\proj1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config"

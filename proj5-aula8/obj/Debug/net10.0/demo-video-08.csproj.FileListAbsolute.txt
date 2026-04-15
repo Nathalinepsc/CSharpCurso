@@ -1,0 +1,15 @@
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\bin\Debug\net10.0\demo-video-08.exe
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\bin\Debug\net10.0\demo-video-08.deps.json
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\bin\Debug\net10.0\demo-video-08.runtimeconfig.json
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\bin\Debug\net10.0\demo-video-08.dll
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\bin\Debug\net10.0\demo-video-08.pdb
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\demo-video-08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\demo-video-08.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\demo-video-08.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\demo-video-08.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\demo-video-08.sourcelink.json
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\demo-video-08.dll
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\refint\demo-video-08.dll
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\demo-video-08.pdb
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\demo-video-08.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\Nathaline\Programacao\Projetos\CsharpCurso\proj5-aula8\obj\Debug\net10.0\ref\demo-video-08.dll
