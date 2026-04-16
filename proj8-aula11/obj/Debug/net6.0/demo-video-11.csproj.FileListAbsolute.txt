@@ -1,0 +1,30 @@
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-11\bin\Debug\net6.0\demo-video-11.exe
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-11\bin\Debug\net6.0\demo-video-11.deps.json
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-11\bin\Debug\net6.0\demo-video-11.runtimeconfig.json
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-11\bin\Debug\net6.0\demo-video-11.dll
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-11\bin\Debug\net6.0\demo-video-11.pdb
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-11\obj\Debug\net6.0\demo-video-11.csproj.AssemblyReference.cache
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-11\obj\Debug\net6.0\demo-video-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-11\obj\Debug\net6.0\demo-video-11.AssemblyInfoInputs.cache
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-11\obj\Debug\net6.0\demo-video-11.AssemblyInfo.cs
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-11\obj\Debug\net6.0\demo-video-11.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-11\obj\Debug\net6.0\demo-video-11.dll
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-11\obj\Debug\net6.0\refint\demo-video-11.dll
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-11\obj\Debug\net6.0\demo-video-11.pdb
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-11\obj\Debug\net6.0\demo-video-11.genruntimeconfig.cache
+C:\Users\Windows 10\OneDrive\InvasãoC#\Demos\InvasaoC-\demo-video-11\obj\Debug\net6.0\ref\demo-video-11.dll
+C:\Projetos\CsharpCurso\proj8-aula11\bin\Debug\net6.0\demo-video-11.exe
+C:\Projetos\CsharpCurso\proj8-aula11\bin\Debug\net6.0\demo-video-11.deps.json
+C:\Projetos\CsharpCurso\proj8-aula11\bin\Debug\net6.0\demo-video-11.runtimeconfig.json
+C:\Projetos\CsharpCurso\proj8-aula11\bin\Debug\net6.0\demo-video-11.dll
+C:\Projetos\CsharpCurso\proj8-aula11\bin\Debug\net6.0\demo-video-11.pdb
+C:\Projetos\CsharpCurso\proj8-aula11\obj\Debug\net6.0\demo-video-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CsharpCurso\proj8-aula11\obj\Debug\net6.0\demo-video-11.AssemblyInfoInputs.cache
+C:\Projetos\CsharpCurso\proj8-aula11\obj\Debug\net6.0\demo-video-11.AssemblyInfo.cs
+C:\Projetos\CsharpCurso\proj8-aula11\obj\Debug\net6.0\demo-video-11.csproj.CoreCompileInputs.cache
+C:\Projetos\CsharpCurso\proj8-aula11\obj\Debug\net6.0\demo-video-11.sourcelink.json
+C:\Projetos\CsharpCurso\proj8-aula11\obj\Debug\net6.0\demo-video-11.dll
+C:\Projetos\CsharpCurso\proj8-aula11\obj\Debug\net6.0\refint\demo-video-11.dll
+C:\Projetos\CsharpCurso\proj8-aula11\obj\Debug\net6.0\demo-video-11.pdb
+C:\Projetos\CsharpCurso\proj8-aula11\obj\Debug\net6.0\demo-video-11.genruntimeconfig.cache
+C:\Projetos\CsharpCurso\proj8-aula11\obj\Debug\net6.0\ref\demo-video-11.dll
