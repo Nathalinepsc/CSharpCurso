@@ -1,0 +1,15 @@
+C:\Projetos\CsharpCurso\proj7-aula10\bin\Debug\net10.0\proj7-aula10.exe
+C:\Projetos\CsharpCurso\proj7-aula10\bin\Debug\net10.0\proj7-aula10.deps.json
+C:\Projetos\CsharpCurso\proj7-aula10\bin\Debug\net10.0\proj7-aula10.runtimeconfig.json
+C:\Projetos\CsharpCurso\proj7-aula10\bin\Debug\net10.0\proj7-aula10.dll
+C:\Projetos\CsharpCurso\proj7-aula10\bin\Debug\net10.0\proj7-aula10.pdb
+C:\Projetos\CsharpCurso\proj7-aula10\obj\Debug\net10.0\proj7-aula10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CsharpCurso\proj7-aula10\obj\Debug\net10.0\proj7-aula10.AssemblyInfoInputs.cache
+C:\Projetos\CsharpCurso\proj7-aula10\obj\Debug\net10.0\proj7-aula10.AssemblyInfo.cs
+C:\Projetos\CsharpCurso\proj7-aula10\obj\Debug\net10.0\proj7-aula10.csproj.CoreCompileInputs.cache
+C:\Projetos\CsharpCurso\proj7-aula10\obj\Debug\net10.0\proj7-aula10.sourcelink.json
+C:\Projetos\CsharpCurso\proj7-aula10\obj\Debug\net10.0\proj7-aula10.dll
+C:\Projetos\CsharpCurso\proj7-aula10\obj\Debug\net10.0\refint\proj7-aula10.dll
+C:\Projetos\CsharpCurso\proj7-aula10\obj\Debug\net10.0\proj7-aula10.pdb
+C:\Projetos\CsharpCurso\proj7-aula10\obj\Debug\net10.0\proj7-aula10.genruntimeconfig.cache
+C:\Projetos\CsharpCurso\proj7-aula10\obj\Debug\net10.0\ref\proj7-aula10.dll
