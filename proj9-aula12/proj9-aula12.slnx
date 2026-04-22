@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SaoBento.App/SaoBento.App.csproj" />
+  <Project Path="SaoBento.Dominio/SaoBento.Dominio.csproj" />
+  <Project Path="SaoBento.Infra/SaoBento.Infra.csproj" />
+</Solution>

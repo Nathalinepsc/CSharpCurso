@@ -1,0 +1,12 @@
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Infra\bin\Debug\net10.0\SaoBento.Infra.deps.json
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Infra\bin\Debug\net10.0\SaoBento.Infra.dll
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Infra\bin\Debug\net10.0\SaoBento.Infra.pdb
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Infra\obj\Debug\net10.0\SaoBento.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Infra\obj\Debug\net10.0\SaoBento.Infra.AssemblyInfoInputs.cache
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Infra\obj\Debug\net10.0\SaoBento.Infra.AssemblyInfo.cs
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Infra\obj\Debug\net10.0\SaoBento.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Infra\obj\Debug\net10.0\SaoBento.Infra.sourcelink.json
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Infra\obj\Debug\net10.0\SaoBento.Infra.dll
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Infra\obj\Debug\net10.0\refint\SaoBento.Infra.dll
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Infra\obj\Debug\net10.0\SaoBento.Infra.pdb
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Infra\obj\Debug\net10.0\ref\SaoBento.Infra.dll

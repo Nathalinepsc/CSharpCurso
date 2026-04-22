@@ -1,0 +1,12 @@
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Dominio\bin\Debug\net10.0\SaoBento.Dominio.deps.json
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Dominio\bin\Debug\net10.0\SaoBento.Dominio.dll
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Dominio\bin\Debug\net10.0\SaoBento.Dominio.pdb
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Dominio\obj\Debug\net10.0\SaoBento.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Dominio\obj\Debug\net10.0\SaoBento.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Dominio\obj\Debug\net10.0\SaoBento.Dominio.AssemblyInfo.cs
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Dominio\obj\Debug\net10.0\SaoBento.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Dominio\obj\Debug\net10.0\SaoBento.Dominio.sourcelink.json
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Dominio\obj\Debug\net10.0\SaoBento.Dominio.dll
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Dominio\obj\Debug\net10.0\refint\SaoBento.Dominio.dll
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Dominio\obj\Debug\net10.0\SaoBento.Dominio.pdb
+C:\Projetos\CsharpCurso\proj9-aula12\SaoBento.Dominio\obj\Debug\net10.0\ref\SaoBento.Dominio.dll
