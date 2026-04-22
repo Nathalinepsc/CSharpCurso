@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaoBento.Dominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16d4126bbb53da23b00812a0d996f6fb17bb0dda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71dae0e41ffee0cfcd642cacb4189974620693a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaoBento.Dominio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaoBento.Dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

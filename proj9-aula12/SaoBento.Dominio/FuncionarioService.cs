@@ -31,10 +31,24 @@ public class FuncionarioService
             .ToList();
     }
 
-    public List<Funcionario> ObterTodosOrdenados()
+    public List<Funcionario> ObterOrdenadosAZ()
     {
         return _funcionarios
             .OrderBy(f => f.Nome)
+            .ToList();
+    }
+
+    public List<Funcionario> ObterOrdenadosZA()
+    {
+        return _funcionarios
+            .OrderByDescending(f => f.Nome)
+            .ToList();
+    }
+
+    public List<Funcionario> ObterOrdenadosPorId()
+    {
+        return _funcionarios
+            .OrderBy(f => f.Id)
             .ToList();
     }
 
