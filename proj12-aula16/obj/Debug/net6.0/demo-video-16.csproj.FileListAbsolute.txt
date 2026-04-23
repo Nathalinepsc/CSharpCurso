@@ -1,0 +1,5 @@
+C:\Projetos\CsharpCurso\proj12-aula16\obj\Debug\net6.0\demo-video-16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CsharpCurso\proj12-aula16\obj\Debug\net6.0\demo-video-16.AssemblyInfoInputs.cache
+C:\Projetos\CsharpCurso\proj12-aula16\obj\Debug\net6.0\demo-video-16.AssemblyInfo.cs
+C:\Projetos\CsharpCurso\proj12-aula16\obj\Debug\net6.0\demo-video-16.csproj.CoreCompileInputs.cache
+C:\Projetos\CsharpCurso\proj12-aula16\obj\Debug\net6.0\demo-video-16.sourcelink.json
