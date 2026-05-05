@@ -1,0 +1,15 @@
+C:\Projetos\CsharpCurso\proj16-aula20\obj\Debug\net10.0\demo-video-20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CsharpCurso\proj16-aula20\obj\Debug\net10.0\demo-video-20.AssemblyInfoInputs.cache
+C:\Projetos\CsharpCurso\proj16-aula20\obj\Debug\net10.0\demo-video-20.AssemblyInfo.cs
+C:\Projetos\CsharpCurso\proj16-aula20\obj\Debug\net10.0\demo-video-20.csproj.CoreCompileInputs.cache
+C:\Projetos\CsharpCurso\proj16-aula20\obj\Debug\net10.0\demo-video-20.sourcelink.json
+C:\Projetos\CsharpCurso\proj16-aula20\bin\Debug\net10.0\demo-video-20.exe
+C:\Projetos\CsharpCurso\proj16-aula20\bin\Debug\net10.0\demo-video-20.deps.json
+C:\Projetos\CsharpCurso\proj16-aula20\bin\Debug\net10.0\demo-video-20.runtimeconfig.json
+C:\Projetos\CsharpCurso\proj16-aula20\bin\Debug\net10.0\demo-video-20.dll
+C:\Projetos\CsharpCurso\proj16-aula20\bin\Debug\net10.0\demo-video-20.pdb
+C:\Projetos\CsharpCurso\proj16-aula20\obj\Debug\net10.0\demo-video-20.dll
+C:\Projetos\CsharpCurso\proj16-aula20\obj\Debug\net10.0\refint\demo-video-20.dll
+C:\Projetos\CsharpCurso\proj16-aula20\obj\Debug\net10.0\demo-video-20.pdb
+C:\Projetos\CsharpCurso\proj16-aula20\obj\Debug\net10.0\demo-video-20.genruntimeconfig.cache
+C:\Projetos\CsharpCurso\proj16-aula20\obj\Debug\net10.0\ref\demo-video-20.dll
