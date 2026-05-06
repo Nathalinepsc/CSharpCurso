@@ -1,0 +1,15 @@
+C:\Projetos\CsharpCurso\proj17-aula21\bin\Debug\net10.0\proj17-aula21.exe
+C:\Projetos\CsharpCurso\proj17-aula21\bin\Debug\net10.0\proj17-aula21.deps.json
+C:\Projetos\CsharpCurso\proj17-aula21\bin\Debug\net10.0\proj17-aula21.runtimeconfig.json
+C:\Projetos\CsharpCurso\proj17-aula21\bin\Debug\net10.0\proj17-aula21.dll
+C:\Projetos\CsharpCurso\proj17-aula21\bin\Debug\net10.0\proj17-aula21.pdb
+C:\Projetos\CsharpCurso\proj17-aula21\obj\Debug\net10.0\proj17-aula21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CsharpCurso\proj17-aula21\obj\Debug\net10.0\proj17-aula21.AssemblyInfoInputs.cache
+C:\Projetos\CsharpCurso\proj17-aula21\obj\Debug\net10.0\proj17-aula21.AssemblyInfo.cs
+C:\Projetos\CsharpCurso\proj17-aula21\obj\Debug\net10.0\proj17-aula21.csproj.CoreCompileInputs.cache
+C:\Projetos\CsharpCurso\proj17-aula21\obj\Debug\net10.0\proj17-aula21.sourcelink.json
+C:\Projetos\CsharpCurso\proj17-aula21\obj\Debug\net10.0\proj17-aula21.dll
+C:\Projetos\CsharpCurso\proj17-aula21\obj\Debug\net10.0\refint\proj17-aula21.dll
+C:\Projetos\CsharpCurso\proj17-aula21\obj\Debug\net10.0\proj17-aula21.pdb
+C:\Projetos\CsharpCurso\proj17-aula21\obj\Debug\net10.0\proj17-aula21.genruntimeconfig.cache
+C:\Projetos\CsharpCurso\proj17-aula21\obj\Debug\net10.0\ref\proj17-aula21.dll

@@ -1,0 +1,10 @@
+Olá alunos! Estamos aprendendo System.IO em C#.
+Nova linha adicionada ao arquivo.
+Lista de Alunos:
+--------------------
+1. João
+2. Maria
+3. Pedro
+4. Ana
+--------------------
+Fim da lista de alunos.
