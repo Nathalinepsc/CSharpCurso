@@ -45,6 +45,7 @@ else
    Console.WriteLine($"Arquivo {arquivo} já existe. Nova linha adicionada.");
 }
 
+// Escrevendo no arquivo usando StreamWriter
 using StreamWriter Writer = new StreamWriter(pathCompleto, append: true);
 {
     Writer.WriteLine("Lista de alunos:");
@@ -59,6 +60,7 @@ using StreamWriter Writer = new StreamWriter(pathCompleto, append: true);
 }
 
 
+// Lendo o arquivo usando StreamReader
 if(File.Exists(pathCompleto))
 {
     using StreamReader reader = new StreamReader(pathCompleto);
